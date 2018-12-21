@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Елена Физис</title>
+    <link>https://elenaphysis.github.io/</link>
+    <description>Recent content on Елена Физис</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://elenaphysis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Работы</title>
+      <link>https://elenaphysis.github.io/works/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elenaphysis.github.io/works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>За сценой</title>
+      <link>https://elenaphysis.github.io/backstage/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elenaphysis.github.io/backstage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Условия и цены</title>
+      <link>https://elenaphysis.github.io/price/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elenaphysis.github.io/price/</guid>
+      <description>Профессиональный макияж и индивидуальная консультация за 2000 рублей. + Бесплатное сопровождение на фотосессию в течении двух часов, далее - 500руб/час. + Выезд в пределах Москвы - 500 руб. Вы также можете приехать в профессионально оборудованную студию (10 минут пешком от метро Бауманская). + Как бонус вас будет ждать вкусный кофе.
+Записаться или задать вопрос можно ВКонтакте, WhatsApp или по телефону. Для этого вы можете использовать ссылки внизу страницы и кнопку &amp;ldquo;Задать вопрос&amp;rdquo; в правом нижнем углу.</description>
+    </item>
+    
+    <item>
+      <title>Обо мне</title>
+      <link>https://elenaphysis.github.io/about/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elenaphysis.github.io/about/</guid>
+      <description>Здравствуйте! Мне очень приятно, что вы зашли на мой сайт.
+Меня зовут Елена. Многие годы, из своей 30-тилетней жизни, я искала дело, которое бы гармонично сочетало в себе радость от поделанной работы и возможность делать что-то хорошее для окружающих людей. Визаж дает мне возможность испытывать радость и гордость от своей работы, я придаю девушкам дополнительное очарование, рассказываю об их типе лица и оптимальных тонах и помогаю готовиться к самым волнующим и прекрасным событиям в их жизни.</description>
+    </item>
+    
+  </channel>
+</rss>
