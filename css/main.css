@@ -3361,3 +3361,13 @@
 		
     
     
+.video-center {
+	margin: 30px auto;
+}
+
+.publication-title {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-top: 3em;
+    text-align: center;
+}

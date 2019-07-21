@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="/css/main.css" />
 		
 		
-
+        <link rel="stylesheet" href="/css/magnific-popup.css" />
 	</head>
 	<body>
 		
@@ -41,7 +41,7 @@
 
                             <li><a href="/works/">Работы</a></li>
 
-                            <li><a href="/backstage/">За сценой</a></li>
+                            <li><a href="/publications/">Публикации</a></li>
 
                             <li><a href="/price/">Условия и цены</a></li>
 
@@ -59,15 +59,20 @@
                             <span class="image main"><img src="/images/top_page.jpg" alt="" /></span>
                             
                             <section>
-<p>Профессиональный макияж и индивидуальная консультация за 2000 рублей.
-<br>
-<code>+</code> Бесплатное сопровождение на фотосессию в течении двух часов, далее - 500руб/час.
-<br>
-<code>+</code> Выезд в пределах Москвы - 500 руб. Вы также можете приехать в профессионально оборудованную студию (10 минут пешком от метро Бауманская).
-<br>
-<code>+</code> Как бонус вас будет ждать вкусный кофе.</p>
+<p><ul style="list-style-type: circle">
+<li>Профессиональный макияж - 2000 рублей.</li>
+<li>Локоны - 1000 рублей.</li>
+<li>Бесплатное сопровождение на фотосессию в течении двух часов, по предварительной договоренности. Далее - 500руб/час.</li>
+<li>Выезд
+<ul>
+    <li>Выезд в фотостудию - бесплатно. </li>
+    <li>Работа на выездной фотосессии (без гримерки) - 500 рублей.</li>
+    <li>Ранний выезд (до 10:00) - 500 рублей.</li>
+</ul>
+</li>
+<br></p>
 
-<p>Записаться или задать вопрос можно ВКонтакте, WhatsApp или по телефону. Для этого вы можете использовать ссылки внизу страницы и кнопку &ldquo;Задать вопрос&rdquo; в правом нижнем углу.</p>
+<p>Записаться или задать вопрос можно в WhatsApp, Instagram или по телефону. Для этого вы можете использовать ссылки внизу страницы.</p>
 
                             </section>
 						</div>
@@ -98,18 +103,29 @@
 			<script src="/js/util.js"></script>
 			
 			<script src="/js/main.js"></script>
+			<script src="/js/jquery.magnific-popup.min.js"></script>
+			<script>
+                $(document).ready(function() {
+					$('.popup-gallery').magnificPopup({
+						delegate: 'a',
+						type: 'image',
+						tLoading: 'Loading image #%curr%...',
+						mainClass: 'mfp-img-mobile',
+						gallery: {
+							enabled: true,
+							navigateByImgClick: true,
+							preload: [0]
+						},
+						image: {
+							tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+							titleSrc: function(item) {
+								return "";
+							}
+						}
+					});
+				});
+			</script>
 
-            <script type="text/javascript" src="//vk.com/js/api/openapi.js?146"></script>
-            
-            <div id="vk_community_messages"></div>
-            <script type="text/javascript">
-                VK.Widgets.CommunityMessages("vk_community_messages", 146993334,
-                    {
-                        disableExpandChatSound: "1",
-                        disableNewMessagesSound: "1",
-                        disableButtonTooltip: "1"
-                    });
-            </script>
             
             
 			<script type="text/javascript" >
