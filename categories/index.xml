@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Елена Физис</title>
-    <link>https://elenaphysis.github.io/categories/</link>
+    <link>https://elena-fizis.github.io/categories/</link>
     <description>Recent content in Categories on Елена Физис</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="https://elenaphysis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elena-fizis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
