@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Елена Физис</title>
+    <title>Визажист на фотосессию в Москве on Елена Физис</title>
     <link>https://elena-fizis.github.io/</link>
-    <description>Recent content on Елена Физис</description>
+    <description>Recent content in Визажист на фотосессию в Москве on Елена Физис</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>Дипломы</title>
+      <link>https://elena-fizis.github.io/diplomas/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://elena-fizis.github.io/diplomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Условия и цены</title>
       <link>https://elena-fizis.github.io/price/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
@@ -43,8 +52,9 @@
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://elena-fizis.github.io/about/</guid>
-      <description>Здравствуйте! Мне очень приятно, что вы зашли на мой сайт.
-Меня зовут Елена. Многие годы, из своей 30-тилетней жизни, я искала дело, которое бы гармонично сочетало в себе радость от поделанной работы и возможность делать что-то хорошее для окружающих людей. Визаж дает мне возможность испытывать радость и гордость от своей работы, я придаю девушкам дополнительное очарование, рассказываю об их типе лица и оптимальных тонах и помогаю готовиться к самым волнующим и прекрасным событиям в их жизни.</description>
+      <description>Я занимаюсь визажем с 2017 года. Начинала я с клиентского мейка, успела поработать на тв, преподавала в двух школах макияжа (школа Игоря Семушина и Бьюти Аура), работала в салоне Faceology и на модных показах, свадьбах и других мероприятиях.
+С начала 2019 года я стала работать визажистом на фотосессиях. Закончила курс креативного макияжа на фотосессии у Татяны Перовой, курс фэшн макияжа ProIntensive у Дарьи Холодных.
+Я много публиковалась в российских и зарубежных журналах Vogue Italia, Holm magazine, Picton, Horizont mag, Frwl, Eloque, 7 hues и пр.</description>
     </item>
     
   </channel>
