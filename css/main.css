@@ -3405,3 +3405,49 @@
 	    margin: 20px auto;
 	}
 }
+
+.page-short-text {
+	text-align: center;
+}
+
+
+/*   Homepage text */
+.homepage-text {
+	display: block;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.homepage-text-label {
+	font-size: 2em;
+	text-align: center;
+}
+
+.homepage-text-header {
+	font-size: 12px;
+	text-align: center;
+	font-weight: normal;
+}
+
+.homepage-text-hidden {
+	display: none;
+}
+
+.homepage-text-button {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1278px) {
+	.homepage-text-header {
+		font-size: 10px;
+	}
+}
+@media (max-width: 1000px) {
+	.homepage-text {
+		display: block;
+		width: 95%;
+		margin: 0 auto;
+	}
+}

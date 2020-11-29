@@ -198,3 +198,25 @@
 	});
 
 })(jQuery);
+
+
+
+(function($) {
+
+	$(function() {
+		var textButton = $('.homepage-text-button > button');
+		var textHidden = $('.homepage-text-hidden');
+		var buttonText = '';
+		textButton.on('click', function(event) {
+			if(textHidden.css('display') == 'none') {
+				textHidden.css('display', 'block');
+				buttonText = textButton.text();
+				textButton.text('Закрыть');
+			} else {
+				textHidden.css('display', 'none');
+				textButton.text(buttonText);
+			}
+		});	
+	});
+
+})(jQuery);
