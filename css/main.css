@@ -3388,7 +3388,7 @@
 	float: left;
 	height: auto;
     max-width: 100%;
-    border-radius: 20px;
+    border-radius: 10px;
     margin: 10px 20px 20px 0;
 }
 
@@ -3450,4 +3450,13 @@
 		width: 95%;
 		margin: 0 auto;
 	}
+}
+
+article.post > footer {
+	text-align: right;
+	margin-top: 9px;
+}
+
+article.post h2 {
+	margin-bottom: 15px;
 }
