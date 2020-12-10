@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow: /tags/
+Disallow: /404/
 Sitemap: http://elena-fizis.ru/sitemap.xml
