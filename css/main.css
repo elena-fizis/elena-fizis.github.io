@@ -3414,6 +3414,12 @@
 	text-align: center;
 }
 
+@media (max-width: 420px) {
+	.page-short-text {
+		font-size: 1.1em;
+	}
+}
+
 
 /*   Homepage text */
 .homepage-text {
@@ -3443,6 +3449,7 @@
   margin-bottom: 20px;
 }
 
+
 @media (max-width: 1278px) {
 	.homepage-text-header {
 		font-size: 10px;
@@ -3455,6 +3462,12 @@
 		margin: 0 auto;
 	}
 }
+@media (max-width: 420px) {
+	.homepage-text {
+		font-size: 1.1em;
+	}
+}
+
 
 article.post > footer {
 	text-align: right;
