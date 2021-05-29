@@ -2755,11 +2755,15 @@
 			}
 			
 			.tiles article.style7 > .image:before {
-            	background-color: #ffcccc;
+            	background-color: #D1C45E;
 			}
 
 			.tiles article.style8 > .image:before {
-            	
+            	background-color: #ffcccc;
+			}
+
+			.tiles article.style9 > .image:before {
+            	background-color: #ffcccc;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
@@ -3476,4 +3480,142 @@ article.post > footer {
 
 article.post h2 {
 	margin-bottom: 15px;
+}
+
+
+
+/* Course Page */
+.course-container {
+	width: auto;
+}
+
+.description-units-container {
+	margin: 0 auto;
+	margin-bottom: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+
+.description-unit {
+	margin-top: 40px;
+	padding: 20px;
+	padding-left: 0;
+	flex-basis: 45%;
+}
+
+@media (max-width: 900px) {
+	.description-unit {
+		flex-basis: auto;
+	}
+}
+
+.description-unit-caption > h3 {
+	font-size: 0.8em;
+	margin-bottom: 8px;
+	text-align: center;
+}
+
+.description-unit-text {
+}
+
+
+.course-logo {
+	height: 500px;
+	background-size: cover;
+}
+
+.course-logo-panel {
+	height: 100px;
+	background-color: rgba(255, 255, 255, 0.5);
+	color: black;
+	position: relative;
+	top: 400px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.course-logo-icon {
+	color: #bd67b3;
+	font-size: 50px;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.course-logo-label-1 {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.course-logo-panel-item {
+	margin: 0 40px 0 0;
+}
+
+.course-logo-panel-item > hr {
+	margin: 10px 0;
+	height: 2px;
+	background-color: white;
+}
+
+.course-logo-panel-item > div {
+	text-align: center;
+}
+
+.course-logo-panel-item > div:first-child {
+	font-weight: bold;
+}
+
+
+.course-description {
+	margin-top: 70px;
+}
+
+.course-description > h2 {
+	margin: 15px 0;
+	margin-top: 50px;
+}
+
+.course-short-info {
+
+}
+
+.course-shortinfo-item {
+	border: 1px solid black;
+}
+
+.course-shortinfo-item > hr {
+	width: auto;
+}
+
+.course-price {
+	width: auto;
+	padding: 50px 20px;
+	border: solid 1px #a1c0e8;
+	border-radius: 7px;
+}
+
+.course-price-number {
+	font-weight: bold;
+}
+
+
+
+
+.course-logo-c2 {
+
+}
+
+@media (max-width: 900px) {
+	.course-logo-c1 {
+		background-position: 20% 0%;
+	}
+	.course-logo-c2 {
+		background-position: 80% 0%;
+	}
 }
