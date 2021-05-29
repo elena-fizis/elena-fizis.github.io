@@ -3483,6 +3483,12 @@ article.post h2 {
 }
 
 
+/* Course list Page */
+
+.course-list-item > a > h2 {
+	font-size: 1.3em !important;
+}
+
 
 /* Course Page */
 .course-container {
@@ -3604,12 +3610,6 @@ article.post h2 {
 	font-weight: bold;
 }
 
-
-
-
-.course-logo-c2 {
-
-}
 
 @media (max-width: 900px) {
 	.course-logo-c1 {
